@@ -1,9 +1,8 @@
-Prezto — Instantly Awesome Zsh
+Prezto — My Own Fork
 ==============================
 
-Prezto is the configuration framework for [Zsh][1]; it enriches the command line
-interface environment with sane defaults, aliases, functions, auto completion,
-and prompt themes.
+This is just my own fork of Prezto for personal use. 
+The original is names sorin-ionescu/prezto
 
 Installation
 ------------
