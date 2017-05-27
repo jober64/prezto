@@ -2,7 +2,7 @@ Prezto — My Own Fork
 ==============================
 
 This is just my own fork of Prezto for personal use. 
-The original is names sorin-ionescu/prezto
+The original is named sorin-ionescu/prezto.
 
 Installation
 ------------
